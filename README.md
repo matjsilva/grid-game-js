@@ -2,4 +2,6 @@
 
 This is a very simple project that i've made while learning JS and Canvas.
 
+Use WASD to move the red square.
+
 [You can check the application here](https://matjsilva.github.io/grid-game-js/)
